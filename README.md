@@ -1,8 +1,10 @@
 # Fase 5 - FarmTech: Machine Learning e Computação em Nuvem
 
 ## Integrantes do Grupo
-- Gustavo Segantini Rossignolli (gsrxyz@gmail.com)
-- [Adicione outros integrantes, se houver]
+- Gabriela da Cunha Rocha (rm561041@fiap.com.br)
+- Gustavo Segantini Rossignolli (rm560111@fiap.com.br)
+- Thiago Lima Bernardes (rm560085@fiap.com.br)
+- Vitor Lopes Romão (rm560111@fiap.com.br)
 
 ---
 
@@ -33,7 +35,7 @@ Os resultados estão documentados no arquivo Jupyter, linkado abaixo, com detalh
 ### Descrição
 Esta entrega tem como objetivo analisar e comparar os custos de hospedar uma API em diferentes regiões da AWS, com base nos seguintes requisitos:
 - **Configurações**: 2 CPUs, 1 GiB de RAM, até 5 Gbps de rede, 50 GB de armazenamento (HD).
-- **Regiões Comparadas**: São Paulo (BR) e Virgínia do Norte (EUA).
+- **Regiões Comparadas**: São Paulo (BR) e North Virgínia (EUA).
 
 ### Passos Realizados
 1. Utilização da AWS Pricing Calculator para estimar os custos.
@@ -43,17 +45,42 @@ Esta entrega tem como objetivo analisar e comparar os custos de hospedar uma API
 ### Análise
 | Região                  | Custo Mês (USD)  | Custo Anual (USD)  | Latência Esperada | Observações                       |
 |-------------------------|------------------|--------------------|-------------------|-----------------------------------|
-| São Paulo (BR)          | $17.38           | $208.56            | Baixa             | Atende às restrições legais.      |
-| Virgínia do Norte (EUA) | $10.13           | $121.56            | Alta              | Não atende restrições legais.     |
+| São Paulo (BR)          | $11.22           | $134.64            | Baixa             | Atende às restrições legais.      |
+| Virgínia do Norte (EUA) | $6.88            | $82.56             | Alta              | Não atende restrições legais.     |
 
-
+### Resultado
 A solução escolhida foi **São Paulo (BR)**, devido a restrições legais para armazenamento no exterior, a região de São Paulo seria a escolha mais adequada, mesmo que o custo seja ligeiramente maior. Além disso, a proximidade geográfica pode garantir menor latência e acesso mais rápido aos dados dos sensores.
 
 ### Links
-- [Vídeo Comparativo no YouTube](https://www.youtube.com/watch?v=dg5bIIl_sUI) *(não listado)*
+- [Vídeo Comparativo no YouTube](https://youtu.be/orOHmphvsqI) *(não listado)*
 
-### Gráficos e Imagens
-*Inclua gráficos de comparação de custos gerados a partir da calculadora.*
+## Gráficos e Imagens
+### Regiões utilizadas:
+![image](https://github.com/user-attachments/assets/73922834-4782-4d9d-9fb7-990509dec722)
+![image](https://github.com/user-attachments/assets/db18a01a-2ca0-4b16-b726-99d0b67859b9)
+
+### Configurações básicas:
+![image](https://github.com/user-attachments/assets/11391925-f975-4b10-ad77-b1ea8e517ec3)
+![image](https://github.com/user-attachments/assets/5fc87c35-0dc4-4fda-976b-33d035e58b8d)
+![image](https://github.com/user-attachments/assets/4832caa1-48fe-4909-848c-e524fb370410)
+
+### Calculos de valores:
+#### N. Virginia
+![image](https://github.com/user-attachments/assets/a873ae98-02c1-46f6-8631-9c7b3b75bc1c)
+![image](https://github.com/user-attachments/assets/1720d2b9-4eea-46d7-af94-cd98043788f7)
+
+#### São Paulo
+![image](https://github.com/user-attachments/assets/1e229118-6687-4ac7-a872-da35aea6d526)
+![image](https://github.com/user-attachments/assets/8ff448f1-128a-4d05-9cf4-c67194b08c6c)
+
+### Valores totais:
+#### N. Virginia
+![image](https://github.com/user-attachments/assets/6149f136-a1d4-4f20-8051-5ca0ab8664c0)
+#### São Paulo
+![image](https://github.com/user-attachments/assets/5feb1c3a-ad49-4e70-9b03-fbbd52b4e2df)
+
+### Restrição de instâncias e armazenamentos na mesma região
+![image](https://github.com/user-attachments/assets/93b65166-eea2-4fe6-9921-f2a259cb200e)
 
 ---
 
