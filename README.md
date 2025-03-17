@@ -6,7 +6,6 @@ Link(https://www.youtube.com/watch?v=x6MZ3CZdJxc)
 ## Integrantes do Grupo
 - Gabriela da Cunha Rocha (rm561041@fiap.com.br)
 - Gustavo Segantini Rossignolli (rm560111@fiap.com.br)
-- Thiago Lima Bernardes (rm560085@fiap.com.br)
 - Vitor Lopes Romão (rm560111@fiap.com.br)
 
 ---
