@@ -25,8 +25,8 @@ Esta entrega tem como objetivo prever o rendimento de safras agrícolas, utiliza
 Os resultados estão documentados no arquivo Jupyter, linkado abaixo, com detalhes sobre as análises, conclusões e limitações.
 
 ### Links
-- [Notebook Jupyter](https://colab.research.google.com/drive/19YQVc9eTvf0jlMb7ogKbcB1vXHU8ReHN?usp=sharing) *(Insira o link do notebook executável)*
-- [Vídeo Demonstrativo no YouTube](https://www.youtube.com/watch?v=x6MZ3CZdJxc) *(Insira o link do vídeo "não listado")*
+- [Notebook Jupyter](https://colab.research.google.com/drive/19YQVc9eTvf0jlMb7ogKbcB1vXHU8ReHN?usp=sharing) 
+- [Vídeo Demonstrativo no YouTube](https://www.youtube.com/watch?v=x6MZ3CZdJxc)
 
 ---
 
