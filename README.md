@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 - Gabriela da Cunha Rocha (rm561041@fiap.com.br)
 - Gustavo Segantini Rossignolli (rm560111@fiap.com.br)
-- Vitor Lopes Romão (rm560111@fiap.com.br)
+- Vitor Lopes Romão (rm559858@fiap.com.br)
 
 ---
 
